@@ -1,0 +1,8 @@
+const1.py
+
+Purpose: Demonstrates a parameterized constructor.
+
+Defines a Student class.
+The constructor accepts a parameter fullname.
+Stores the value in self.name and prints a welcome message.
+Creates a Student object with the name "Hamza shahid".
